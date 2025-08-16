@@ -1,0 +1,27 @@
+# Spring Boot
+target/
+*.jar
+*.war
+*.class
+
+# Maven
+.mvn/
+.settings/
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+build/
+
+# Angular
+node_modules/
+dist/
+.angular/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Mac system files
+.DS_Store
